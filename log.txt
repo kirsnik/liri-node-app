@@ -1,0 +1,57 @@
+User Command: node liri.js spotify feel good 
+
+LIRI Response:
+
+*************************
+*************************
+*************************
+------------------------
+Song Information:
+------------------------
+Song Name: Feel Good Inc
+Artist: Gorillaz
+Album: Demon Days
+Preview Here: https://p.scdn.co/mp3-preview/7388c425022ced92b1caa7f73bcf0cb3080aee47?cid=8c5263fe87184a84845c71e2a1fa4ce6
+*************************
+*************************
+*************************
+*************************
+
+User Command: node liri.js spotify feel good 
+
+LIRI Response:
+
+*************************
+*************************
+*************************
+------------------------
+Song Information:
+------------------------
+Song Name: Feel Good Inc
+Artist: Gorillaz
+Album: Demon Days
+Preview Here: https://p.scdn.co/mp3-preview/7388c425022ced92b1caa7f73bcf0cb3080aee47?cid=8c5263fe87184a84845c71e2a1fa4ce6
+*************************
+*************************
+*************************
+*************************
+
+User Command: node liri.js spotify in the end 
+
+LIRI Response:
+
+*************************
+*************************
+*************************
+------------------------
+Song Information:
+------------------------
+Song Name: In The End
+Artist: Linkin Park
+Album: Hybrid Theory (Bonus Track Version)
+Preview Here: https://p.scdn.co/mp3-preview/993540fd7aa1a0a44bb0d1b2c82092578c831b07?cid=8c5263fe87184a84845c71e2a1fa4ce6
+*************************
+*************************
+*************************
+*************************
+
