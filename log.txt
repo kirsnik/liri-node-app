@@ -55,3 +55,431 @@ Preview Here: https://p.scdn.co/mp3-preview/993540fd7aa1a0a44bb0d1b2c82092578c83
 *************************
 *************************
 
+User Command: node liri.js spotify danger zone 
+
+LIRI Response:
+
+*************************
+*************************
+*************************
+------------------------
+Song Information:
+------------------------
+Song Name: Danger Zone
+Artist: Kenny Loggins
+Album: Yesterday, Today, Tomorrow - The Greatest Hits Of Kenny Loggins
+Preview Here: https://p.scdn.co/mp3-preview/37f82469e33bd437dd5b313796a6f7230d4dbd01?cid=8c5263fe87184a84845c71e2a1fa4ce6
+*************************
+*************************
+*************************
+*************************
+
+User Command: node liri.js spotify danger zone 
+
+LIRI Response:
+
+*************************
+*************************
+*************************
+------------------------
+Song Information:
+------------------------
+Song Name: Danger Zone
+Artist: Kenny Loggins
+Album: Yesterday, Today, Tomorrow - The Greatest Hits Of Kenny Loggins
+Preview Here: https://p.scdn.co/mp3-preview/37f82469e33bd437dd5b313796a6f7230d4dbd01?cid=8c5263fe87184a84845c71e2a1fa4ce6
+*************************
+*************************
+*************************
+*************************
+
+User Command: node liri.js spotify 
+
+LIRI Response:
+
+*************************
+*************************
+*************************
+------------------------
+Song Information:
+------------------------
+Song Name: No Leaf Clover - Live with the SFSO
+Artist: Metallica
+Album: S&M
+Preview Here: https://p.scdn.co/mp3-preview/03dadd1b10db635eb73ccefeb9ab164bbdf53b34?cid=8c5263fe87184a84845c71e2a1fa4ce6
+*************************
+*************************
+*************************
+*************************
+
+User Command: node liri.js spotify 
+
+LIRI Response:
+
+*************************
+*************************
+*************************
+------------------------
+Song Information:
+------------------------
+Song Name: Danger Zone
+Artist: Kenny Loggins
+Album: Yesterday, Today, Tomorrow - The Greatest Hits Of Kenny Loggins
+Preview Here: https://p.scdn.co/mp3-preview/37f82469e33bd437dd5b313796a6f7230d4dbd01?cid=8c5263fe87184a84845c71e2a1fa4ce6
+*************************
+*************************
+*************************
+*************************
+
+User Command: node liri.js spotify 
+
+LIRI Response:
+
+*************************
+*************************
+*************************
+`````````````````````````
+Song Information:
+`````````````````````````
+Song Name: Danger Zone
+Artist: Kenny Loggins
+Album: Yesterday, Today, Tomorrow - The Greatest Hits Of Kenny Loggins
+Preview Here: https://p.scdn.co/mp3-preview/37f82469e33bd437dd5b313796a6f7230d4dbd01?cid=8c5263fe87184a84845c71e2a1fa4ce6
+*************************
+*************************
+*************************
+*************************
+
+User Command: node liri.js spotify 
+
+LIRI Response:
+
+*************************
+*************************
+*************************
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+Song Information:
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+Song Name: Danger Zone
+Artist: Kenny Loggins
+Album: Yesterday, Today, Tomorrow - The Greatest Hits Of Kenny Loggins
+Preview Here: https://p.scdn.co/mp3-preview/37f82469e33bd437dd5b313796a6f7230d4dbd01?cid=8c5263fe87184a84845c71e2a1fa4ce6
+*************************
+*************************
+*************************
+*************************
+
+User Command: node liri.js spotify 
+
+LIRI Response:
+
+*****************************************************************************************************************************
+*****************************************************************************************************************************
+*****************************************************************************************************************************
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+Song Information:
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+Song Name: Danger Zone
+Artist: Kenny Loggins
+Album: Yesterday, Today, Tomorrow - The Greatest Hits Of Kenny Loggins
+Preview Here: https://p.scdn.co/mp3-preview/37f82469e33bd437dd5b313796a6f7230d4dbd01?cid=8c5263fe87184a84845c71e2a1fa4ce6
+*****************************************************************************************************************************
+*****************************************************************************************************************************
+*****************************************************************************************************************************
+*****************************************************************************************************************************
+
+User Command: C:\Program Files\nodejs\node.exe,C:\Users\Rene\Coding\liri-node-app\liri.js,movie,john,wick
+
+LIRI Response:
+
+Usage:
+    node liri.js spotify "<song_name>"
+
+User Command: node liri.js spotify call me devil 
+
+LIRI Response:
+
+*****************************************************************************************************************************
+*****************************************************************************************************************************
+*****************************************************************************************************************************
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+Song Information:
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+Song Name: Call Me Devil
+Artist: Friends in Tokyo
+Album: Keep Moving On
+Preview Here: https://p.scdn.co/mp3-preview/c0782ae5ebc4ca8d27ccd078ada73368a089c4f3?cid=8c5263fe87184a84845c71e2a1fa4ce6
+*****************************************************************************************************************************
+*****************************************************************************************************************************
+*****************************************************************************************************************************
+*****************************************************************************************************************************
+
+User Command: node liri.js movie-this american phsyco 
+
+ERROR: Retrieving OMDB entry -- nullUser Command: node liri.js movie-this american phsyco 
+
+ERROR: Retrieving OMDB entry -- nullUser Command: node liri.js spotify feel good 
+
+LIRI Response:
+
+*****************************************************************************************************************************
+*****************************************************************************************************************************
+*****************************************************************************************************************************
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+Song Information:
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+Song Name: Feel Good Inc
+Artist: Gorillaz
+Album: Demon Days
+Preview Here: https://p.scdn.co/mp3-preview/7388c425022ced92b1caa7f73bcf0cb3080aee47?cid=8c5263fe87184a84845c71e2a1fa4ce6
+*****************************************************************************************************************************
+*****************************************************************************************************************************
+*****************************************************************************************************************************
+*****************************************************************************************************************************
+
+User Command: C:\Program Files\nodejs\node.exe,C:\Users\Rene\Coding\liri-node-app\liri.js,spotify-this-song,no,leaf,clover
+
+LIRI Response:
+
+Usage:
+    node liri.js spotify "<song_name>"
+
+User Command: node liri.js spotify no leaf clover 
+
+LIRI Response:
+
+*****************************************************************************************************************************
+*****************************************************************************************************************************
+*****************************************************************************************************************************
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+Song Information:
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+Song Name: No Leaf Clover - Live with the SFSO
+Artist: Metallica
+Album: S&M
+Preview Here: https://p.scdn.co/mp3-preview/03dadd1b10db635eb73ccefeb9ab164bbdf53b34?cid=8c5263fe87184a84845c71e2a1fa4ce6
+*****************************************************************************************************************************
+*****************************************************************************************************************************
+*****************************************************************************************************************************
+*****************************************************************************************************************************
+
+User Command: node liri.js spotify in the end 
+
+LIRI Response:
+
+*****************************************************************************************************************************
+*****************************************************************************************************************************
+*****************************************************************************************************************************
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+Song Information:
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+Song Name: In The End
+Artist: Linkin Park
+Album: Hybrid Theory (Bonus Track Version)
+Preview Here: https://p.scdn.co/mp3-preview/993540fd7aa1a0a44bb0d1b2c82092578c831b07?cid=8c5263fe87184a84845c71e2a1fa4ce6
+*****************************************************************************************************************************
+*****************************************************************************************************************************
+*****************************************************************************************************************************
+*****************************************************************************************************************************
+
+User Command: C:\Program Files\nodejs\node.exe,C:\Users\Rene\Coding\liri-node-app\liri.js,tron
+
+LIRI Response:
+
+Usage:
+    node liri.js spotify "<song_name>"
+
+User Command: C:\Program Files\nodejs\node.exe,C:\Users\Rene\Coding\liri-node-app\liri.js,movie,tron
+
+LIRI Response:
+
+Usage:
+    node liri.js spotify "<song_name>"
+
+User Command: node liri.js movie tron 
+
+ERROR: Retrieving OMDB entry -- nullUser Command: node liri.js movie tron 
+
+LIRI Response:
+
+------------------------
+Movie Information:
+------------------------
+
+Movie Title: TRON
+Year Released: 09 Jul 1982
+IMBD Rating: 6.8
+Country Produced: USA
+Language: English
+Plot: Hacker/arcade owner Kevin Flynn is digitally broken down into a data stream by a villainous software pirate known as Master Control and reconstituted into the internal, 3-D graphical world of computers. It is there, in the ultimate blazingly colorful, geometrically intense landscapes of cyberspace, that Flynn joins forces with Tron to outmaneuver the Master Control Program that holds them captive in the equivalent of a gigantic, infinitely challenging computer game.
+Actors: Jeff Bridges, Bruce Boxleitner, David Warner, Cindy Morgan
+Rotten Tomatoes Rating: N/A
+Rotten Tomatoes URL: http://www.rottentomatoes.com/m/tron/
+
+User Command: node liri.js movie tron 
+
+User Command: node liri.js movie tron 
+
+User Command: node liri.js movie tron 
+
+LIRI Response:
+
+------------------------
+Movie Information:
+------------------------
+
+Movie Title: TRON
+Year Released: 09 Jul 1982
+IMBD Rating: 6.8
+Country Produced: USA
+Language: English
+Plot: Hacker/arcade owner Kevin Flynn is digitally broken down into a data stream by a villainous software pirate known as Master Control and reconstituted into the internal, 3-D graphical world of computers. It is there, in the ultimate blazingly colorful, geometrically intense landscapes of cyberspace, that Flynn joins forces with Tron to outmaneuver the Master Control Program that holds them captive in the equivalent of a gigantic, infinitely challenging computer game.
+Actors: Jeff Bridges, Bruce Boxleitner, David Warner, Cindy Morgan
+Rotten Tomatoes Rating: N/A
+Rotten Tomatoes URL: http://www.rottentomatoes.com/m/tron/
+
+User Command: node liri.js movie american 
+
+LIRI Response:
+
+------------------------
+Movie Information:
+------------------------
+
+Movie Title: American Beauty
+Year Released: 01 Oct 1999
+IMBD Rating: 8.4
+Country Produced: USA
+Language: English
+Plot: After his death sometime in his forty-third year, suburbanite Lester Burnham tells of the last few weeks of his life, during which he had no idea of his imminent passing. He is a husband to real estate agent Carolyn Burnham and father to high school student Janie Burnham. Although Lester and Carolyn once loved each other, they now merely tolerate each other. Typical wallflower Janie too hates both her parents, the three who suffer individually in silence in their home life. Janie tries to steer clear of both her parents. Carolyn, relatively new to the real estate business, wants to create the persona of success to further her career, she aspiring to the professional life of Buddy Kane, the king of the real estate business in their neighborhood. Lester merely walks mindlessly through life, including at his job in advertising. His company is downsizing, and he, like all the other employees, has to justify his position to the newly hired efficiency expert to keep his job. Things change for Lester when he falls in love at first sight with Janie's more experienced classmate, Angela Hays. Both Janie and Angela can see Lester's sexual infatuation with Angela, who courts such attention from any man as a sign that she is model material, she having once appeared in Seventeen and it a career to which she aspires. Lester's infatuation with Angela gives him a reenergized view on life, where he openly doesn't care anymore what anyone thinks about what he does, anyone except Angela. This infatuation coincides with the Fittses moving in next door: homophobic disciplinarian US Marine Colonel Frank Fitts who rules the house with a military fist (that fist being both figurative and literal), his semi-comatose wife Barbara Fitts, and their bright and quietly subversive eighteen year old son Ricky Fitts, who openly abides by his father's rules while behind the scenes lives by his own quite different perspective. Much like Lester's infatuation, Ricky immediately becomes infatuated with Janie, he who considers girls like Angela as ordinary. The entry of Angela and the Fittses into the Burnhams' lives ultimately leads to each of the players confronting what is truly in his or her heart.
+Actors: Kevin Spacey, Annette Bening, Thora Birch, Wes Bentley
+Rotten Tomatoes Rating: N/A
+Rotten Tomatoes URL: http://www.rottentomatoes.com/m/american_beauty/
+
+User Command: node liri.js movie american pie 
+
+LIRI Response:
+
+------------------------
+Movie Information:
+------------------------
+
+Movie Title: American Pie
+Year Released: 09 Jul 1999
+IMBD Rating: 7.0
+Country Produced: USA
+Language: English
+Plot: Jim, Oz, Finch and Kevin are four friends who make a pact that before they graduate they will all lose their virginity. The hard job now is how to reach that goal by prom night. Whilst Oz begins singing to grab attention and Kevin tries to persuade his girlfriend, Finch tries any easy route of spreading rumors and Jim fails miserably. Whether it is being caught on top of a pie or on the Internet, Jim always ends up with his trusty sex advice from his father. Will they achieve their goal of getting laid by prom night? Or will they learn something much different?
+Actors: Jason Biggs, Jennifer Coolidge, Shannon Elizabeth, Alyson Hannigan
+Rotten Tomatoes Rating: N/A
+Rotten Tomatoes URL: http://www.rottentomatoes.com/m/american_pie/
+
+User Command: node liri.js movie american pie 
+
+LIRI Response:
+
+------------------------
+Movie Information:
+------------------------
+
+Movie Title: American Pie
+Year Released: 09 Jul 1999
+IMBD Rating: 7.0
+Country Produced: USA
+Language: English
+Plot: Jim, Oz, Finch and Kevin are four friends who make a pact that before they graduate they will all lose their virginity. The hard job now is how to reach that goal by prom night. Whilst Oz begins singing to grab attention and Kevin tries to persuade his girlfriend, Finch tries any easy route of spreading rumors and Jim fails miserably. Whether it is being caught on top of a pie or on the Internet, Jim always ends up with his trusty sex advice from his father. Will they achieve their goal of getting laid by prom night? Or will they learn something much different?
+Actors: Jason Biggs, Jennifer Coolidge, Shannon Elizabeth, Alyson Hannigan
+Rotten Tomatoes Rating: N/A
+Rotten Tomatoes URL: http://www.rottentomatoes.com/m/american_pie/
+
+User Command: node liri.js movie american dad 
+
+LIRI Response:
+
+------------------------
+Movie Information:
+------------------------
+
+Movie Title: American Dad: The New CIA
+Year Released: 08 Apr 2005
+IMBD Rating: 6.1
+Country Produced: USA
+Language: English
+Plot: The New CIA is a short film that preceded the film Fever Pitch as a promotion for American Dad. available in the special features of disc 3 in the American Dad Volume 1 DVD. In the film, Stan tries to host a promotional film showing what is going on with the CIA.
+Actors: Seth MacFarlane, Stephen Chang, J. Lee, Jon Polito
+Rotten Tomatoes Rating: N/A
+Rotten Tomatoes URL: N/A
+
+User Command: node liri.js movie hotdog 
+
+LIRI Response:
+
+------------------------
+Movie Information:
+------------------------
+
+Movie Title: Hotdog
+Year Released: 30 Nov 1990
+IMBD Rating: 7.5
+Country Produced: Philippines
+Language: Filipino, Tagalog, English
+Plot: This spectacular movie about a depressed hotdog that has this itch to become the worlds coldest hotdog so he can do he fathers dying wishes of becoming a professional skier(or whatever you call a person who skies).
+Actors: Tito Sotto, Vic Sotto, Joey de Leon, Maricel Laxa
+Rotten Tomatoes Rating: N/A
+Rotten Tomatoes URL: N/A
+
+{"Title":"Hotdog","Year":"1990","Rated":"N/A","Released":"30 Nov 1990","Runtime":"N/A","Genre":"Comedy, Fantasy","Director":"Jose 'Pepe' Wenceslao","Writer":"Loida Viriña (story and screenplay)","Actors":"Tito Sotto, Vic Sotto, Joey de Leon, Maricel Laxa","Plot":"This spectacular movie about a depressed hotdog that has this itch to become the worlds coldest hotdog so he can do he fathers dying wishes of becoming a professional skier(or whatever you call a person who skies).","Language":"Filipino, Tagalog, English","Country":"Philippines","Awards":"N/A","Poster":"N/A","Ratings":[{"Source":"Internet Movie Database","Value":"7.5/10"}],"Metascore":"N/A","imdbRating":"7.5","imdbVotes":"10","imdbID":"tt0465202","Type":"movie","DVD":"N/A","BoxOffice":"N/A","Production":"N/A","Website":"N/A","Response":"True"}{"Title":"Hotdog","Year":"1990","Rated":"N/A","Released":"30 Nov 1990","Runtime":"N/A","Genre":"Comedy, Fantasy","Director":"Jose 'Pepe' Wenceslao","Writer":"Loida Viriña (story and screenplay)","Actors":"Tito Sotto, Vic Sotto, Joey de Leon, Maricel Laxa","Plot":"This spectacular movie about a depressed hotdog that has this itch to become the worlds coldest hotdog so he can do he fathers dying wishes of becoming a professional skier(or whatever you call a person who skies).","Language":"Filipino, Tagalog, English","Country":"Philippines","Awards":"N/A","Poster":"N/A","Ratings":[{"Source":"Internet Movie Database","Value":"7.5/10"}],"Metascore":"N/A","imdbRating":"7.5","imdbVotes":"10","imdbID":"tt0465202","Type":"movie","DVD":"N/A","BoxOffice":"N/A","Production":"N/A","Website":"N/A","Response":"True"}{"Title":"Hotdog","Year":"1990","Rated":"N/A","Released":"30 Nov 1990","Runtime":"N/A","Genre":"Comedy, Fantasy","Director":"Jose 'Pepe' Wenceslao","Writer":"Loida Viriña (story and screenplay)","Actors":"Tito Sotto, Vic Sotto, Joey de Leon, Maricel Laxa","Plot":"This spectacular movie about a depressed hotdog that has this itch to become the worlds coldest hotdog so he can do he fathers dying wishes of becoming a professional skier(or whatever you call a person who skies).","Language":"Filipino, Tagalog, English","Country":"Philippines","Awards":"N/A","Poster":"N/A","Ratings":[{"Source":"Internet Movie Database","Value":"7.5/10"}],"Metascore":"N/A","imdbRating":"7.5","imdbVotes":"10","imdbID":"tt0465202","Type":"movie","DVD":"N/A","BoxOffice":"N/A","Production":"N/A","Website":"N/A","Response":"True"}User Command: node liri.js movie hotdog 
+
+LIRI Response:
+
+------------------------
+Movie Information:
+------------------------
+
+Movie Title: Hotdog
+Year Released: 30 Nov 1990
+IMBD Rating: 7.5
+Country Produced: Philippines
+Language: Filipino, Tagalog, English
+Plot: This spectacular movie about a depressed hotdog that has this itch to become the worlds coldest hotdog so he can do he fathers dying wishes of becoming a professional skier(or whatever you call a person who skies).
+Actors: Tito Sotto, Vic Sotto, Joey de Leon, Maricel Laxa
+Rotten Tomatoes Rating: N/A
+Rotten Tomatoes URL: N/A
+
+{"Title":"Hotdog","Year":"1990","Rated":"N/A","Released":"30 Nov 1990","Runtime":"N/A","Genre":"Comedy, Fantasy","Director":"Jose 'Pepe' Wenceslao","Writer":"Loida Viriña (story and screenplay)","Actors":"Tito Sotto, Vic Sotto, Joey de Leon, Maricel Laxa","Plot":"This spectacular movie about a depressed hotdog that has this itch to become the worlds coldest hotdog so he can do he fathers dying wishes of becoming a professional skier(or whatever you call a person who skies).","Language":"Filipino, Tagalog, English","Country":"Philippines","Awards":"N/A","Poster":"N/A","Ratings":[{"Source":"Internet Movie Database","Value":"7.5/10"}],"Metascore":"N/A","imdbRating":"7.5","imdbVotes":"10","imdbID":"tt0465202","Type":"movie","DVD":"N/A","BoxOffice":"N/A","Production":"N/A","Website":"N/A","Response":"True"}ERROR: Retrieving OMDB entry -- undefined{"Title":"Hotdog","Year":"1990","Rated":"N/A","Released":"30 Nov 1990","Runtime":"N/A","Genre":"Comedy, Fantasy","Director":"Jose 'Pepe' Wenceslao","Writer":"Loida Viriña (story and screenplay)","Actors":"Tito Sotto, Vic Sotto, Joey de Leon, Maricel Laxa","Plot":"This spectacular movie about a depressed hotdog that has this itch to become the worlds coldest hotdog so he can do he fathers dying wishes of becoming a professional skier(or whatever you call a person who skies).","Language":"Filipino, Tagalog, English","Country":"Philippines","Awards":"N/A","Poster":"N/A","Ratings":[{"Source":"Internet Movie Database","Value":"7.5/10"}],"Metascore":"N/A","imdbRating":"7.5","imdbVotes":"10","imdbID":"tt0465202","Type":"movie","DVD":"N/A","BoxOffice":"N/A","Production":"N/A","Website":"N/A","Response":"True"}ERROR: Retrieving OMDB entry -- undefined{"Title":"Hotdog","Year":"1990","Rated":"N/A","Released":"30 Nov 1990","Runtime":"N/A","Genre":"Comedy, Fantasy","Director":"Jose 'Pepe' Wenceslao","Writer":"Loida Viriña (story and screenplay)","Actors":"Tito Sotto, Vic Sotto, Joey de Leon, Maricel Laxa","Plot":"This spectacular movie about a depressed hotdog that has this itch to become the worlds coldest hotdog so he can do he fathers dying wishes of becoming a professional skier(or whatever you call a person who skies).","Language":"Filipino, Tagalog, English","Country":"Philippines","Awards":"N/A","Poster":"N/A","Ratings":[{"Source":"Internet Movie Database","Value":"7.5/10"}],"Metascore":"N/A","imdbRating":"7.5","imdbVotes":"10","imdbID":"tt0465202","Type":"movie","DVD":"N/A","BoxOffice":"N/A","Production":"N/A","Website":"N/A","Response":"True"}{"Title":"Hotdog","Year":"1990","Rated":"N/A","Released":"30 Nov 1990","Runtime":"N/A","Genre":"Comedy, Fantasy","Director":"Jose 'Pepe' Wenceslao","Writer":"Loida Viriña (story and screenplay)","Actors":"Tito Sotto, Vic Sotto, Joey de Leon, Maricel Laxa","Plot":"This spectacular movie about a depressed hotdog that has this itch to become the worlds coldest hotdog so he can do he fathers dying wishes of becoming a professional skier(or whatever you call a person who skies).","Language":"Filipino, Tagalog, English","Country":"Philippines","Awards":"N/A","Poster":"N/A","Ratings":[{"Source":"Internet Movie Database","Value":"7.5/10"}],"Metascore":"N/A","imdbRating":"7.5","imdbVotes":"10","imdbID":"tt0465202","Type":"movie","DVD":"N/A","BoxOffice":"N/A","Production":"N/A","Website":"N/A","Response":"True"}ERROR: Retrieving OMDB entry -- undefined{"Title":"Hotdog","Year":"1990","Rated":"N/A","Released":"30 Nov 1990","Runtime":"N/A","Genre":"Comedy, Fantasy","Director":"Jose 'Pepe' Wenceslao","Writer":"Loida Viriña (story and screenplay)","Actors":"Tito Sotto, Vic Sotto, Joey de Leon, Maricel Laxa","Plot":"This spectacular movie about a depressed hotdog that has this itch to become the worlds coldest hotdog so he can do he fathers dying wishes of becoming a professional skier(or whatever you call a person who skies).","Language":"Filipino, Tagalog, English","Country":"Philippines","Awards":"N/A","Poster":"N/A","Ratings":[{"Source":"Internet Movie Database","Value":"7.5/10"}],"Metascore":"N/A","imdbRating":"7.5","imdbVotes":"10","imdbID":"tt0465202","Type":"movie","DVD":"N/A","BoxOffice":"N/A","Production":"N/A","Website":"N/A","Response":"True"}ERROR: Retrieving OMDB entry -- undefined{"Title":"Hotdog","Year":"1990","Rated":"N/A","Released":"30 Nov 1990","Runtime":"N/A","Genre":"Comedy, Fantasy","Director":"Jose 'Pepe' Wenceslao","Writer":"Loida Viriña (story and screenplay)","Actors":"Tito Sotto, Vic Sotto, Joey de Leon, Maricel Laxa","Plot":"This spectacular movie about a depressed hotdog that has this itch to become the worlds coldest hotdog so he can do he fathers dying wishes of becoming a professional skier(or whatever you call a person who skies).","Language":"Filipino, Tagalog, English","Country":"Philippines","Awards":"N/A","Poster":"N/A","Ratings":[{"Source":"Internet Movie Database","Value":"7.5/10"}],"Metascore":"N/A","imdbRating":"7.5","imdbVotes":"10","imdbID":"tt0465202","Type":"movie","DVD":"N/A","BoxOffice":"N/A","Production":"N/A","Website":"N/A","Response":"True"}{"Title":"Hotdog","Year":"1990","Rated":"N/A","Released":"30 Nov 1990","Runtime":"N/A","Genre":"Comedy, Fantasy","Director":"Jose 'Pepe' Wenceslao","Writer":"Loida Viriña (story and screenplay)","Actors":"Tito Sotto, Vic Sotto, Joey de Leon, Maricel Laxa","Plot":"This spectacular movie about a depressed hotdog that has this itch to become the worlds coldest hotdog so he can do he fathers dying wishes of becoming a professional skier(or whatever you call a person who skies).","Language":"Filipino, Tagalog, English","Country":"Philippines","Awards":"N/A","Poster":"N/A","Ratings":[{"Source":"Internet Movie Database","Value":"7.5/10"}],"Metascore":"N/A","imdbRating":"7.5","imdbVotes":"10","imdbID":"tt0465202","Type":"movie","DVD":"N/A","BoxOffice":"N/A","Production":"N/A","Website":"N/A","Response":"True"}{"Title":"Hotdog","Year":"1990","Rated":"N/A","Released":"30 Nov 1990","Runtime":"N/A","Genre":"Comedy, Fantasy","Director":"Jose 'Pepe' Wenceslao","Writer":"Loida Viriña (story and screenplay)","Actors":"Tito Sotto, Vic Sotto, Joey de Leon, Maricel Laxa","Plot":"This spectacular movie about a depressed hotdog that has this itch to become the worlds coldest hotdog so he can do he fathers dying wishes of becoming a professional skier(or whatever you call a person who skies).","Language":"Filipino, Tagalog, English","Country":"Philippines","Awards":"N/A","Poster":"N/A","Ratings":[{"Source":"Internet Movie Database","Value":"7.5/10"}],"Metascore":"N/A","imdbRating":"7.5","imdbVotes":"10","imdbID":"tt0465202","Type":"movie","DVD":"N/A","BoxOffice":"N/A","Production":"N/A","Website":"N/A","Response":"True"}{"Title":"Hotdog","Year":"1990","Rated":"N/A","Released":"30 Nov 1990","Runtime":"N/A","Genre":"Comedy, Fantasy","Director":"Jose 'Pepe' Wenceslao","Writer":"Loida Viriña (story and screenplay)","Actors":"Tito Sotto, Vic Sotto, Joey de Leon, Maricel Laxa","Plot":"This spectacular movie about a depressed hotdog that has this itch to become the worlds coldest hotdog so he can do he fathers dying wishes of becoming a professional skier(or whatever you call a person who skies).","Language":"Filipino, Tagalog, English","Country":"Philippines","Awards":"N/A","Poster":"N/A","Ratings":[{"Source":"Internet Movie Database","Value":"7.5/10"}],"Metascore":"N/A","imdbRating":"7.5","imdbVotes":"10","imdbID":"tt0465202","Type":"movie","DVD":"N/A","BoxOffice":"N/A","Production":"N/A","Website":"N/A","Response":"True"}User Command: node liri.js movie hotdog 
+
+LIRI Response:
+
+------------------------
+Movie Information:
+------------------------
+
+Movie Title: Hotdog
+Year Released: 30 Nov 1990
+IMBD Rating: 7.5
+Country Produced: Philippines
+Language: Filipino, Tagalog, English
+Plot: This spectacular movie about a depressed hotdog that has this itch to become the worlds coldest hotdog so he can do he fathers dying wishes of becoming a professional skier(or whatever you call a person who skies).
+Actors: Tito Sotto, Vic Sotto, Joey de Leon, Maricel Laxa
+Rotten Tomatoes Rating: N/A
+Rotten Tomatoes URL: N/A
+
+User Command: node liri.js movie hotdog 
+
+LIRI Response:
+
+------------------------
+Movie Information:
+------------------------
+
+Movie Title: Hotdog
+Year Released: 30 Nov 1990
+IMBD Rating: 7.5
+Country Produced: Philippines
+Language: Filipino, Tagalog, English
+Plot: This spectacular movie about a depressed hotdog that has this itch to become the worlds coldest hotdog so he can do he fathers dying wishes of becoming a professional skier(or whatever you call a person who skies).
+Actors: Tito Sotto, Vic Sotto, Joey de Leon, Maricel Laxa
+Rotten Tomatoes Rating: N/A
+Rotten Tomatoes URL: N/A
+
+{"Title":"Hotdog","Year":"1990","Rated":"N/A","Released":"30 Nov 1990","Runtime":"N/A","Genre":"Comedy, Fantasy","Director":"Jose 'Pepe' Wenceslao","Writer":"Loida Viriña (story and screenplay)","Actors":"Tito Sotto, Vic Sotto, Joey de Leon, Maricel Laxa","Plot":"This spectacular movie about a depressed hotdog that has this itch to become the worlds coldest hotdog so he can do he fathers dying wishes of becoming a professional skier(or whatever you call a person who skies).","Language":"Filipino, Tagalog, English","Country":"Philippines","Awards":"N/A","Poster":"N/A","Ratings":[{"Source":"Internet Movie Database","Value":"7.5/10"}],"Metascore":"N/A","imdbRating":"7.5","imdbVotes":"10","imdbID":"tt0465202","Type":"movie","DVD":"N/A","BoxOffice":"N/A","Production":"N/A","Website":"N/A","Response":"True"}{"Title":"Hotdog","Year":"1990","Rated":"N/A","Released":"30 Nov 1990","Runtime":"N/A","Genre":"Comedy, Fantasy","Director":"Jose 'Pepe' Wenceslao","Writer":"Loida Viriña (story and screenplay)","Actors":"Tito Sotto, Vic Sotto, Joey de Leon, Maricel Laxa","Plot":"This spectacular movie about a depressed hotdog that has this itch to become the worlds coldest hotdog so he can do he fathers dying wishes of becoming a professional skier(or whatever you call a person who skies).","Language":"Filipino, Tagalog, English","Country":"Philippines","Awards":"N/A","Poster":"N/A","Ratings":[{"Source":"Internet Movie Database","Value":"7.5/10"}],"Metascore":"N/A","imdbRating":"7.5","imdbVotes":"10","imdbID":"tt0465202","Type":"movie","DVD":"N/A","BoxOffice":"N/A","Production":"N/A","Website":"N/A","Response":"True"}{"Title":"Hotdog","Year":"1990","Rated":"N/A","Released":"30 Nov 1990","Runtime":"N/A","Genre":"Comedy, Fantasy","Director":"Jose 'Pepe' Wenceslao","Writer":"Loida Viriña (story and screenplay)","Actors":"Tito Sotto, Vic Sotto, Joey de Leon, Maricel Laxa","Plot":"This spectacular movie about a depressed hotdog that has this itch to become the worlds coldest hotdog so he can do he fathers dying wishes of becoming a professional skier(or whatever you call a person who skies).","Language":"Filipino, Tagalog, English","Country":"Philippines","Awards":"N/A","Poster":"N/A","Ratings":[{"Source":"Internet Movie Database","Value":"7.5/10"}],"Metascore":"N/A","imdbRating":"7.5","imdbVotes":"10","imdbID":"tt0465202","Type":"movie","DVD":"N/A","BoxOffice":"N/A","Production":"N/A","Website":"N/A","Response":"True"}ERROR: Retrieving OMDB entry -- undefined{"Title":"Hotdog","Year":"1990","Rated":"N/A","Released":"30 Nov 1990","Runtime":"N/A","Genre":"Comedy, Fantasy","Director":"Jose 'Pepe' Wenceslao","Writer":"Loida Viriña (story and screenplay)","Actors":"Tito Sotto, Vic Sotto, Joey de Leon, Maricel Laxa","Plot":"This spectacular movie about a depressed hotdog that has this itch to become the worlds coldest hotdog so he can do he fathers dying wishes of becoming a professional skier(or whatever you call a person who skies).","Language":"Filipino, Tagalog, English","Country":"Philippines","Awards":"N/A","Poster":"N/A","Ratings":[{"Source":"Internet Movie Database","Value":"7.5/10"}],"Metascore":"N/A","imdbRating":"7.5","imdbVotes":"10","imdbID":"tt0465202","Type":"movie","DVD":"N/A","BoxOffice":"N/A","Production":"N/A","Website":"N/A","Response":"True"}ERROR: Retrieving OMDB entry -- undefined{"Title":"Hotdog","Year":"1990","Rated":"N/A","Released":"30 Nov 1990","Runtime":"N/A","Genre":"Comedy, Fantasy","Director":"Jose 'Pepe' Wenceslao","Writer":"Loida Viriña (story and screenplay)","Actors":"Tito Sotto, Vic Sotto, Joey de Leon, Maricel Laxa","Plot":"This spectacular movie about a depressed hotdog that has this itch to become the worlds coldest hotdog so he can do he fathers dying wishes of becoming a professional skier(or whatever you call a person who skies).","Language":"Filipino, Tagalog, English","Country":"Philippines","Awards":"N/A","Poster":"N/A","Ratings":[{"Source":"Internet Movie Database","Value":"7.5/10"}],"Metascore":"N/A","imdbRating":"7.5","imdbVotes":"10","imdbID":"tt0465202","Type":"movie","DVD":"N/A","BoxOffice":"N/A","Production":"N/A","Website":"N/A","Response":"True"}ERROR: Retrieving OMDB entry -- undefined{"Title":"Hotdog","Year":"1990","Rated":"N/A","Released":"30 Nov 1990","Runtime":"N/A","Genre":"Comedy, Fantasy","Director":"Jose 'Pepe' Wenceslao","Writer":"Loida Viriña (story and screenplay)","Actors":"Tito Sotto, Vic Sotto, Joey de Leon, Maricel Laxa","Plot":"This spectacular movie about a depressed hotdog that has this itch to become the worlds coldest hotdog so he can do he fathers dying wishes of becoming a professional skier(or whatever you call a person who skies).","Language":"Filipino, Tagalog, English","Country":"Philippines","Awards":"N/A","Poster":"N/A","Ratings":[{"Source":"Internet Movie Database","Value":"7.5/10"}],"Metascore":"N/A","imdbRating":"7.5","imdbVotes":"10","imdbID":"tt0465202","Type":"movie","DVD":"N/A","BoxOffice":"N/A","Production":"N/A","Website":"N/A","Response":"True"}{"Title":"Hotdog","Year":"1990","Rated":"N/A","Released":"30 Nov 1990","Runtime":"N/A","Genre":"Comedy, Fantasy","Director":"Jose 'Pepe' Wenceslao","Writer":"Loida Viriña (story and screenplay)","Actors":"Tito Sotto, Vic Sotto, Joey de Leon, Maricel Laxa","Plot":"This spectacular movie about a depressed hotdog that has this itch to become the worlds coldest hotdog so he can do he fathers dying wishes of becoming a professional skier(or whatever you call a person who skies).","Language":"Filipino, Tagalog, English","Country":"Philippines","Awards":"N/A","Poster":"N/A","Ratings":[{"Source":"Internet Movie Database","Value":"7.5/10"}],"Metascore":"N/A","imdbRating":"7.5","imdbVotes":"10","imdbID":"tt0465202","Type":"movie","DVD":"N/A","BoxOffice":"N/A","Production":"N/A","Website":"N/A","Response":"True"}
