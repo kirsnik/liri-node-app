@@ -15,10 +15,8 @@ for (i = 3; i < nodeArg.length; i++) {
 }
 
 function spotifySong(song) {
-    fs.appendFile('./log.txt', 'User Command: node liri.js spotify ' + song + '\n\n', (err) => {
-        if (err) throw err;
-    });
-
+    fs.appendFile('./log.txt', 'User Command: node liri.js spotify ' + song + '\n\n', (err) => {if (err) throw err;});
+    
     var search = (song === '') ? search = 'Danger Zone' : search = song;
     
     spotify.search({
@@ -73,7 +71,7 @@ function spotifySong(song) {
 
 // OMDB 
 function runOMDB(search) {
-        var URL = "http://www.omdbapi.com/?t=" + search + "&plot=full&tomatoes=true&apikey=trilogy";
+        var URL = "http://www.omdbapi.com/?t=" + search + "&plot=full&tomatoes=true&apikey=" + keys.APIkey.API;
         axios.get(URL).then(function (response) {
             var jsonData = response.data;
             var movieData =
@@ -105,6 +103,35 @@ function runOMDB(search) {
 
 
 
+function BandInTown(artist) {
+
+        var URL = "https://rest.bandsintown.com/artists/" + artist + "/events?app_id=trilogy";
+        axios.get(URL).then(function (response) {
+            var jsonData = response.data;
+            var movieData =
+                '*****************************************************************************************************************************\n' +
+                '*****************************************************************************************************************************\n' +
+                '*****************************************************************************************************************************\n' +
+                '~~~~~~~~~~~~~~~~~~~~~~~~~~\n' +
+                'Movie Information:\n' +
+                '~~~~~~~~~~~~~~~~~~~~~~~~~~\n' +
+                'Venue: ' + data[i].venue.name  + '\n' +
+                'City: ' + data[i].venue.city  + '\n' +
+                'Date & Time: ' + data[i].datetime  + '\n' +
+                '*****************************************************************************************************************************\n' +
+                '*****************************************************************************************************************************\n' +
+                '*****************************************************************************************************************************\n' +
+                '*****************************************************************************************************************************\n';
+
+            //print movieData to console
+            console.log(movieData)
+        }
+        );
+}
+
+
+
+
 function spotifyThisSong() {
     fs.appendFile('./log.txt', 'User Command: node liri.js do-what-it-says\n\n', (err) => {
         if (err) throw err;
@@ -122,9 +149,16 @@ function spotifyThisSong() {
                 case 'spotify':
                     spotifySong(param);
                     break;
+                case 'do-what-it-says':
+                spotifyThisSong(param);
+                    break;
                 case 'movie':
                     retrieveOBDBInfo(param);
                     break;
+                case 'bands':
+                BandInTown(param);
+                    break;
+                    
             }
         }
     });
@@ -137,6 +171,8 @@ if (liriCommand === `spotify`) {
     spotifyThisSong();
 }  else if (liriCommand === `movie`) {
 	runOMDB(liriArg);
+}   else if (liriCommand === `bands`) {
+	BandInTown(liriCommand);
 } else {
     fs.appendFile('./log.txt', 'User Command: ' + nodeArg + '\n\n', (err) => {
         if (err) throw err;
